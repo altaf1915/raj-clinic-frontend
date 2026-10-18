@@ -3,6 +3,10 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 
 function DoctorCard({ doctor, index }) {
+
+//akash
+  const ViewDoctorProfile = () => {}
+
   return (
     <motion.article
       initial={{ opacity: 0, y: 25 }}
