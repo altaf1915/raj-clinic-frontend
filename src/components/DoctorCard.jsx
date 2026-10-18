@@ -5,6 +5,9 @@ import { Link } from "react-router-dom";
 function DoctorCard({ doctor, index }) {
 
 //akash
+  //const ViewDoctorProfile = () => {}
+
+  //Altaf
   const ViewDoctorProfile = () => {}
 
   return (
