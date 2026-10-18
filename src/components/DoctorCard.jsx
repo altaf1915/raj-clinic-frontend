@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function DoctorCard({ doctor, index }) {
  
 //Altaf Raja
-const name = "Altaf"
+const name = "Akash Mahto"
  
 
   return (
