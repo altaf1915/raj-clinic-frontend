@@ -4,16 +4,13 @@ import { Link } from "react-router-dom";
 
 function DoctorCard({ doctor, index }) {
 
-<<<<<<< HEAD
 //akash
   //const ViewDoctorProfile = () => {}
 
   //Altaf
   const ViewDoctorProfile = () => {}
-=======
-  const name= "Akash"
+  const name= "Akash Mahto"
 
->>>>>>> 44620bf0ec963cd9cb0bbfaaf35c3d6f40824324
 
   return (
     <motion.article
