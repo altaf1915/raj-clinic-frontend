@@ -6,7 +6,6 @@ function DoctorCard({ doctor, index }) {
 
   const name= "Akash"
 
-  const ViewDoctorProfile = () => {}
 
   return (
     <motion.article
