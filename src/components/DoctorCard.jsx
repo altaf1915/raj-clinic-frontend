@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 
 function DoctorCard({ doctor, index }) {
 
-//akash
+  const name= "Akash"
+
   const ViewDoctorProfile = () => {}
 
   return (
